@@ -16,9 +16,9 @@ Total: 4 hores / setmana
 
 ## Calendari M03 - 1T
 
-* 14/09/23 - 16/01/24 - M031 - UF1 - Programació estructurada
-* 22/01/24 - 27/02/24 - M031 - UF4 - POO. Fonaments
-* 04/03/24 - 14/05/24 - M031 - UF2 - Disseny modular
+* 14/09/23 - 16/01/24 - M031 - UF1 - Programació estructurada (62h)
+* 22/01/24 - 27/02/24 - M031 - UF4 - POO. Fonaments (23h)
+* 04/03/24 - 14/05/24 - M031 - UF2 - Disseny modular (32h)
 
 *** 
 
@@ -34,9 +34,9 @@ Total: 2 hores / setmana
 
 ## Calendari M03 - 1T
 
-* 13/09/23 - 01/12/23 - M032 - UF4 - POO. Fonaments
-* 04/12/23 - 15/03/24 - M032 - UF5 - POO. Llibreries fonamentals
-* 18/03/24 - 24/05/24 - M032 - UF6 - Accés a dades
+* 13/09/23 - 01/12/23 - M032 - UF4 - POO. Fonaments (23h)
+* 04/12/23 - 15/03/24 - M032 - UF5 - POO. Llibreries fonamentals (23h)
+* 18/03/24 - 24/05/24 - M032 - UF6 - Accés a dades (23h)
 
 
 
